@@ -1,0 +1,22 @@
+# Product Requirements Document (PRD)
+
+## Project: fire-enrich-email
+
+### Overview
+Describe the main purpose and goals of the project here.
+
+### Features
+- List the main features and functionalities of the project.
+
+### Requirements
+- List technical and business requirements.
+
+### Timeline
+- Provide a rough timeline for milestones and deliverables.
+
+### Stakeholders
+- List key stakeholders and their roles.
+
+---
+
+*Fill in each section as needed to keep your PRD up to date.*
